@@ -1,0 +1,38 @@
+body{
+    background-color:chartreuse;
+}
+h1{
+    text-align: center;
+    display: block;
+    font-size: 70px;
+    font-weight: 1000;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    font-size: 30px; 
+    text-align: justify;
+    font-style: italic;
+}
+h2{
+    text-align: center;
+    display: block;
+    font-size: 50px;
+    font-weight: 800;
+    font-style: italic;
+}
+h3{
+    text-align: center;
+    display: block;
+    font-size: 30px;
+    font-weight: 600;
+    font-style: italic;
+}
+ul{
+    background-color: pink;
+    padding: 20px;
+}
+li{
+    font-size: 30px;
+    font-style: italic;
+}
